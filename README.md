@@ -2,47 +2,10 @@
 
 ## Mục lục
 
-- [Cài đặt](#cài-đặt)
-- [Sử dụng](#sử-dụng)
-- [Góp ý](#góp-ý)
+- [Console log ra màu mè](#console-log-ra-màu-mè)
 - [Đổi ico tab và Đổi tên](#đổi-ico-tab-và-đổi-tên)
 
-x
-x
-x
-x
-x
-x
-x
-x
-x
-x
-x
-x
-x
-x
-x
-x
-x
-x
-x
-x
-x
-x
-x
-x
-x
-x
-x
-x
-x
-x
-x
-x
-x
-x
-x
-
+### Console log ra màu mè
 
 ### Đổi ico tab và Đổi tên
 
@@ -83,16 +46,3 @@ setInterval(() => {
 
 ```
 
-
-
-# Dự án ABC
-
-## Cài đặt
-Nội dung...
-
-## Sử dụng
-Nội dung...
-
-## Góp ý
-Nội dung...
-- [Cài đặt](# Đổi ico tab và Đổi tên)
