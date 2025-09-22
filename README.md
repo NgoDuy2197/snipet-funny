@@ -6,6 +6,14 @@
 - [Đổi ico tab và Đổi tên](#đổi-ico-tab-và-đổi-tên)
 
 ### Console log ra màu mè
+![🌴Vice City🌴](https://img.shields.io/badge/🌴%20Vice%20City%20🌴-ff6ec7?style=for-the-badge&labelColor=ff6ec7&color=ff6ec7)
+
+```
+console.log(
+  "%c 🌴Vice City🌴 ",
+  "color: white; background-color: #ff6ec7; font-size:16px; font-weight:bold; padding:4px 12px; border-radius:6px; text-shadow: 0 0 4px #ff99e6;"
+);
+```
 
 ### Đổi ico tab và Đổi tên
 
