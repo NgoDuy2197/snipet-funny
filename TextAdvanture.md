@@ -14,7 +14,7 @@ Bạn mở mắt thấy trước mặt hai con đường:
 
 ---
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 
 ## Khu rừng
@@ -25,7 +25,7 @@ Trong rừng, bạn nghe tiếng động lạ. Bạn sẽ:
 
 ---
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ## Biển cả
 Sóng vỗ rì rào. Xa xa có một hòn đảo. Bạn sẽ:
@@ -35,7 +35,7 @@ Sóng vỗ rì rào. Xa xa có một hòn đảo. Bạn sẽ:
 
 ---
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ## Leo cây
 Bạn nhìn thấy mặt trời mọc. Bạn thích:
@@ -45,7 +45,7 @@ Bạn nhìn thấy mặt trời mọc. Bạn thích:
 
 ---
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ## Bóng tối
 Trong bóng tối, bạn gặp ánh mắt sáng rực. Bạn sẽ:
@@ -55,7 +55,7 @@ Trong bóng tối, bạn gặp ánh mắt sáng rực. Bạn sẽ:
 
 ---
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ## Hòn đảo
 Trên đảo có kho báu và một hang động. Bạn sẽ:
@@ -65,7 +65,7 @@ Trên đảo có kho báu và một hang động. Bạn sẽ:
 
 ---
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ## Bờ cát
 Có dấu chân kéo dài. Bạn sẽ:
@@ -75,7 +75,7 @@ Có dấu chân kéo dài. Bạn sẽ:
 
 ---
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ## Ánh nắng
 Bạn yêu sự tự do, mạnh mẽ.  
@@ -83,7 +83,7 @@ Bạn yêu sự tự do, mạnh mẽ.
 
 ---
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ## Bóng râm
 Bạn thích an toàn, yên bình.  
@@ -91,7 +91,7 @@ Bạn thích an toàn, yên bình.
 
 ---
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ## Gần gũi
 Bạn tò mò, ưa mạo hiểm.  
@@ -99,7 +99,7 @@ Bạn tò mò, ưa mạo hiểm.
 
 ---
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ## Né tránh
 Bạn cẩn thận, hay đề phòng.  
@@ -107,7 +107,7 @@ Bạn cẩn thận, hay đề phòng.
 
 ---
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ## Kho báu
 Bạn thích sự lấp lánh và khám phá.  
@@ -115,7 +115,7 @@ Bạn thích sự lấp lánh và khám phá.
 
 ---
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ## Hang động
 Trong hang tối, bạn tìm thấy sức mạnh ẩn giấu.  
@@ -123,7 +123,7 @@ Trong hang tối, bạn tìm thấy sức mạnh ẩn giấu.
 
 ---
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ## Dấu chân
 Bạn theo dấu đến một đàn thú.  
@@ -131,7 +131,7 @@ Bạn theo dấu đến một đàn thú.
 
 ---
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ## Vẽ hình
 Bạn để lại sáng tạo trên cát.  
@@ -139,7 +139,7 @@ Bạn để lại sáng tạo trên cát.
 
 ---
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 📜 *“Người đi qua nhiều ngả đường, cuối cùng lại thấy bản thân trong muôn hình vạn trạng.  
 Chọn đường nào cũng không sai — vì tất cả đều là chính mình.”*
