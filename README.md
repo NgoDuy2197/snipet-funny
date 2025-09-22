@@ -1,11 +1,47 @@
-# snipet-funny
+# Lưu mấy code linh tinh hay hay
 
 ## Mục lục
 
 - [Cài đặt](#cài-đặt)
 - [Sử dụng](#sử-dụng)
 - [Góp ý](#góp-ý)
+- [Đổi ico tab và Đổi tên](#đổi-ico-tab-và-đổi-tên)
 
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
 
 
 ### Đổi ico tab và Đổi tên
