@@ -1,7 +1,7 @@
 # 🌌 Hành Trình Tu Tiên
 
 ---
-## Tầng 1 – Khởi Đầu
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>## Tầng 1 – Khởi Đầu
 Đêm mưa bão, bạn lạc vào căn nhà bỏ hoang, nơi có một **cuốn sách cổ phủ bụi** đặt trên bàn đá.  
 Ánh chớp lóe sáng, những ký tự bí ẩn trên bìa thoáng hiện lên như đang chuyển động.  
 Một luồng khí lạnh quét qua, làm tim bạn đập dồn dập.  
@@ -76,8 +76,8 @@ Bạn sẽ:
 Ngọn lửa trong tay dần ổn định, chiếu sáng căn nhà.  
 Bạn cảm thấy quyền năng và trách nhiệm cùng lúc trĩu nặng.  
 
-- [Dùng sức mạnh cứu giúp người](#🕊-hiệp-sĩ-nhân-gian) 🕊  
-- [Dùng sức mạnh huỷ diệt](#👹-ma-quân-thống-lĩnh) 👹  
+- [Dùng sức mạnh cứu giúp người](#tầng-5---hiệp-sĩ-nhân-gian) 🕊  
+- [Dùng sức mạnh huỷ diệt](#tầng-5---ma-quân-thống-lĩnh) 👹  
 
 ---
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
@@ -85,8 +85,8 @@ Bạn cảm thấy quyền năng và trách nhiệm cùng lúc trĩu nặng.
 Ngọn lửa tắt lịm, căn phòng chìm trong im lặng.  
 Bạn kiệt sức, nhưng lòng nhẹ nhõm vì giữ được mạng sống.  
 
-- [Chọn sống đời phàm](#🍶-phàm-nhân-tự-tại) 🍶  
-- [Tò mò tìm lại cuốn sách](#💀-oán-linh-vĩnh-hằng) 💀  
+- [Chọn sống đời phàm](#tầng-5---phàm-nhân-tự-tại) 🍶  
+- [Tò mò tìm lại cuốn sách](#tầng-5---oán-linh-vĩnh-hằng) 💀  
 
 ---
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
@@ -94,8 +94,8 @@ Bạn kiệt sức, nhưng lòng nhẹ nhõm vì giữ được mạng sống.
 Ngoài cửa là một **viên ngọc đỏ máu**, phát sáng kỳ dị.  
 Nó dường như đang gọi tên bạn.  
 
-- [Chấp nhận ngọc](#👹-ma-quân-thống-lĩnh) 👹  
-- [Ném bỏ ngọc](#💀-oán-linh-vĩnh-hằng) 💀  
+- [Chấp nhận ngọc](#tầng-5---ma-quân-thống-lĩnh) 👹  
+- [Ném bỏ ngọc](#tầng-5---oán-linh-vĩnh-hằng) 💀  
 
 ---
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
@@ -103,8 +103,8 @@ Nó dường như đang gọi tên bạn.
 Bạn run rẩy nín thở. Trong bóng tối, một bóng đen xuất hiện, thì thầm vào tai bạn.  
 “Ngươi sẽ hối hận vì đã từ chối sức mạnh…”  
 
-- [Nghe theo bóng đen](#💀-oán-linh-vĩnh-hằng) 💀  
-- [Cắn răng kháng cự](#🕊-hiệp-sĩ-nhân-gian) 🕊  
+- [Nghe theo bóng đen](#tầng-5---oán-linh-vĩnh-hằng) 💀  
+- [Cắn răng kháng cự](#tầng-5---hiệp-sĩ-nhân-gian) 🕊  
 
 ---
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
@@ -112,8 +112,8 @@ Bạn run rẩy nín thở. Trong bóng tối, một bóng đen xuất hiện, t
 Bạn quỳ xuống. Lão nhân gật đầu, truyền cho bạn pháp quyết sơ khai.  
 Tâm trí sáng tỏ, cơ thể tràn đầy sinh khí.  
 
-- [Tu luyện thành chính đạo](#🐉-chân-tiên-giáng-thế) 🐉  
-- [Sa vào tham vọng](#👹-ma-quân-thống-lĩnh) 👹  
+- [Tu luyện thành chính đạo](#tầng-5---chân-tiên-giáng-thế) 🐉  
+- [Sa vào tham vọng](#tầng-5---ma-quân-thống-lĩnh) 👹  
 
 ---
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
@@ -121,8 +121,8 @@ Tâm trí sáng tỏ, cơ thể tràn đầy sinh khí.
 Bạn quay đi, từ chối lời dạy.  
 Lão nhân biến mất, mây trời tan rã, chỉ còn bạn lạc lõng.  
 
-- [Chọn lang bạt tự do](#🌌-lãng-khách-cô-độc) 🌌  
-- [Quay lại tìm thầy](#🐉-chân-tiên-giáng-thế) 🐉  
+- [Chọn lang bạt tự do](#tầng-5---lãng-khách-cô-độc) 🌌  
+- [Quay lại tìm thầy](#tầng-5---chân-tiên-giáng-thế) 🐉  
 
 ---
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
@@ -130,8 +130,8 @@ Lão nhân biến mất, mây trời tan rã, chỉ còn bạn lạc lõng.
 Bạn quay đầu, thấy một **bóng ma khổng lồ** dang tay.  
 Nó cười vang, tiếng cười làm trời đất run rẩy.  
 
-- [Chấp nhận bóng ma](#👹-ma-quân-thống-lĩnh) 👹  
-- [Đấu tranh đến cùng](#🕊-hiệp-sĩ-nhân-gian) 🕊  
+- [Chấp nhận bóng ma](#tầng-5---ma-quân-thống-lĩnh) 👹  
+- [Đấu tranh đến cùng](#tầng-5---hiệp-sĩ-nhân-gian) 🕊  
 
 ---
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
@@ -139,52 +139,44 @@ Nó cười vang, tiếng cười làm trời đất run rẩy.
 Bạn chạy mãi, kiệt sức ngã xuống cánh đồng hoang.  
 Trăng treo giữa trời, ánh sáng mờ nhạt phủ lên thân thể bạn.  
 
-- [Ngủ yên mãi mãi](#🍶-phàm-nhân-tự-tại) 🍶  
+- [Ngủ yên mãi mãi](#tầng-5---phàm-nhân-tự-tại) 🍶  
 - [Thức dậy làm lại từ đầu](#tầng-1---khởi-đầu) 🔄  
 
 ---
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 # Tầng 5 – Kết Cục
 
-## 🐉 Chân Tiên Giáng Thế
-Bạn giữ tâm trong sáng, vượt qua mọi thử thách.  
+## Tầng 5 - Chân Tiên Giáng Thế
+🐉 Bạn giữ tâm trong sáng, vượt qua mọi thử thách.  
 Thiên môn mở ra, rồng vàng quấn quanh, hoa sen nở rộ.  
 Bạn hoá thành chân tiên bất tử, lưu danh thiên cổ.  
 
 ---
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-## 👹 Ma Quân Thống Lĩnh
-Bạn chìm vào bóng tối, để ma lực chiếm đoạt tâm hồn.  
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>## Tầng 5 - Ma Quân Thống Lĩnh
+👹 Bạn chìm vào bóng tối, để ma lực chiếm đoạt tâm hồn.  
 Thiên địa rung chuyển, vạn vật run sợ.  
 Bạn ngồi trên ngai máu, chúa tể ma giới bất diệt.  
 
 ---
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-## 🕊 Hiệp Sĩ Nhân Gian
-Bạn từ chối cả tiên lẫn ma, chọn bảo vệ con người.  
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>## Tầng 5 - Hiệp Sĩ Nhân Gian
+🕊 Bạn từ chối cả tiên lẫn ma, chọn bảo vệ con người.  
 Gươm trong tay, bạn trừ gian diệt ác, lưu danh nhân gian.  
 Không thành tiên cũng chẳng thành ma, nhưng người đời đời kính trọng.  
 
 ---
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-## 🌌 Lãng Khách Cô Độc
-Bạn chọn con đường tự do, không gắn bó với ai.  
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>## Tầng 5 - Lãng Khách Cô Độc
+🌌 Bạn chọn con đường tự do, không gắn bó với ai.  
 Lang bạt giữa nhân gian, một đời phiêu bạt.  
 Tên bạn biến mất vào sương mù, trở thành huyền thoại.  
 
 ---
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-## 💀 Oán Linh Vĩnh Hằng
-Bạn buông xuôi trước bóng tối, để oán khí nuốt chửng.  
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>## Tầng 5 - Oán Linh Vĩnh Hằng
+💀 Bạn buông xuôi trước bóng tối, để oán khí nuốt chửng.  
 Hồn phách bạn tan biến, trở thành oán linh vĩnh viễn lang thang.  
 Tên bạn bị xoá khỏi nhân gian, chỉ còn ám ảnh trong bóng đêm.  
 
 ---
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-## 🍶 Phàm Nhân Tự Tại
-Bạn từ bỏ sức mạnh, quay về đời sống thường dân.  
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>## Tầng 5 - Phàm Nhân Tự Tại
+🍶 Bạn từ bỏ sức mạnh, quay về đời sống thường dân.  
 Ngày ngày uống rượu, ngắm trăng, cày cấy đồng ruộng.  
 Cuộc đời bình dị, chẳng vướng bụi hồng trần.  
-
----
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
