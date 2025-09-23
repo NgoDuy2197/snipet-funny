@@ -1,7 +1,6 @@
-# 🌌 Hành Trình Tu Tiên – Bản Rút Gọn (4 Tầng + Kết Cục)
+# 🌌 Hành Trình Tu Tiên
 
 ---
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 ## Tầng 1 – Khởi Đầu
 Đêm mưa bão, bạn lạc vào căn nhà bỏ hoang, nơi có một **cuốn sách cổ phủ bụi** đặt trên bàn đá.  
 Ánh chớp lóe sáng, những ký tự bí ẩn trên bìa thoáng hiện lên như đang chuyển động.  
