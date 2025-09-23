@@ -14,7 +14,7 @@ Bạn sẽ:
 
 ---
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<br><br><br><br><br><br><br><br><br><br>
+
 
 ## Tầng 2 - Sách cổ
 Trong sách là những ký tự bí ẩn. Bạn vô tình đọc được một câu thần chú.  
@@ -34,7 +34,7 @@ Bạn sẽ:
 
 ---
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<br><br><br><br><br><br><br><br><br><br>
+
 
 ## Tầng 3 - Niệm chú
 Một luồng khí nhập vào cơ thể bạn. Bạn có cảm giác kỳ lạ.  
@@ -72,19 +72,92 @@ Bạn sẽ:
 
 ---
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-… (lặp logic tương tự cho Tầng 4 → 9, mỗi tầng là một biến cố mới, 2 lựa chọn rẽ nhánh) …
+
+
+## Tầng 4 - Luyện chú
+Bạn khống chế được một tia lửa nhỏ.  
+Bạn sẽ:
+
+- [Tiếp tục khổ luyện](#tầng-5---khổ-luyện) 🔥  
+- [Dùng lửa nghịch ngợm](#tầng-5---nghịch-lửa) 😈  
+
+---
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+## Tầng 4 - Dừng lại
+Bạn cảm thấy yếu ớt. Bỗng có tiếng gọi từ xa.  
+Bạn sẽ:
+
+- [Đi theo tiếng gọi](#tầng-5---theo-tiếng-gọi) 📣  
+- [Bỏ chạy thật xa](#tầng-5---chạy-xa) 🏃  
+
+---
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+## Tầng 4 - Mở cửa
+Một người áo đen trao cho bạn một viên ngọc.  
+Bạn sẽ:
+
+- [Giữ ngọc](#tầng-5---giữ-ngọc) 💎  
+- [Ném đi](#tầng-5---ném-ngọc) ❌  
+
+---
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+## Tầng 4 - Trốn chăn
+Bạn mơ thấy quái thú khổng lồ.  
+Bạn sẽ:
+
+- [Đối mặt quái thú](#tầng-5---đối-mặt-quái) 🐉  
+- [Chạy tiếp trong mơ](#tầng-5---chạy-trong-mơ) 💤  
+
+---
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+## Tầng 4 - Bái sư
+Tiên nhân truyền cho bạn pháp quyết sơ khai.  
+Bạn sẽ:
+
+- [Luyện tập chăm chỉ](#tầng-5---chăm-chỉ) 📜  
+- [Đi lang thang thay vì luyện](#tầng-5---lang-thang) 🛤  
+
+---
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+## Tầng 4 - Cãi lại
+Tiên nhân biến mất, trời nổi sấm sét.  
+Bạn sẽ:
+
+- [Hứng chịu sét đánh](#tầng-5---sét-đánh) ⚡  
+- [Trốn khỏi núi](#tầng-5---trốn-núi) 🏔  
+
+---
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+## Tầng 4 - Tìm sách
+Bạn gặp một thương nhân, hắn nói thấy sách ở chợ.  
+Bạn sẽ:
+
+- [Mua lại](#tầng-5---mua-sách) 💰  
+- [Trộm về](#tầng-5---trộm-sách) 🕶  
+
+---
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+## Tầng 4 - Đời phàm
+Bạn chọn sống như người thường.  
+👉 **Kết cục: Bạn thành 🍶 Lãng Khách – một đời tự do phiêu du nhân gian.**
+
+---
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+
+# … Các tầng 5 đến 9 sẽ tiếp tục theo cùng cấu trúc …
 
 ---
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 ## Tầng 10 - Kết Cục
 Tùy theo lựa chọn của bạn, số phận đã định:
 
-- **Nếu bạn luôn chọn mạo hiểm, thử thách** → 👉 **Bạn trở thành 🐉 Chân Long – bá chủ thiên hạ.**  
-- **Nếu bạn chọn học hỏi, khiêm nhường** → 👉 **Bạn thành 👴 Tiên Nhân – phi thăng giới trên.**  
-- **Nếu bạn chọn trốn tránh, an toàn** → 👉 **Bạn thành 🐢 Ẩn Sĩ – sống lâu ngàn năm nơi núi sâu.**  
-- **Nếu bạn ham quyền lực, phản bội** → 👉 **Bạn thành 👹 Ma Quân – gieo rắc sợ hãi.**  
-- **Nếu bạn chọn từ bi, giúp đỡ** → 👉 **Bạn thành 🕊 Bồ Tát – cứu khổ cứu nạn.**  
-- **Nếu bạn chọn đời phàm, rời bỏ tu tiên** → 👉 **Bạn thành 🍶 Lãng Khách – một đời tự do, phiêu du nhân gian.**
+- **Luôn chọn mạo hiểm, thử thách** → 👉 **Bạn trở thành 🐉 Chân Long – bá chủ thiên hạ.**  
+- **Luôn học hỏi, khiêm nhường** → 👉 **Bạn thành 👴 Tiên Nhân – phi thăng giới trên.**  
+- **Chọn trốn tránh, an toàn** → 👉 **Bạn thành 🐢 Ẩn Sĩ – sống lâu ngàn năm nơi núi sâu.**  
+- **Ham quyền lực, phản bội** → 👉 **Bạn thành 👹 Ma Quân – gieo rắc sợ hãi.**  
+- **Chọn từ bi, giúp đỡ** → 👉 **Bạn thành 🕊 Bồ Tát – cứu khổ cứu nạn.**  
+- **Rẽ sang đời phàm từ sớm** → 👉 **Bạn thành 🍶 Lãng Khách – một đời tự do, phiêu du nhân gian.**  
 
 ---
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
