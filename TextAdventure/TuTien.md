@@ -5,7 +5,6 @@ Trải qua **10 tầng lựa chọn**, số mệnh của bạn sẽ thay đổi.
 👉 Mỗi lần hãy click chọn một đường đi.  
 
 ---
-
 ## Tầng 1: Khởi Đầu
 Bạn sinh ra trong một ngôi làng nghèo. Một đêm mưa gió, bạn tìm thấy một cuốn sách cổ.  
 Bạn sẽ:
@@ -14,7 +13,7 @@ Bạn sẽ:
 - [Giấu đi, chờ ngày khác](#tầng-2---bí-mật-giấu) 🗝  
 
 ---
-
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br>
 
 ## Tầng 2 - Sách cổ
@@ -25,7 +24,7 @@ Bạn sẽ:
 - [Đóng sách lại](#tầng-3---đóng-sách) ❌  
 
 ---
-
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 ## Tầng 2 - Bí mật giấu
 Bạn cất sách dưới gầm giường. Đêm đó, trong mơ bạn thấy một lão nhân tóc bạc gọi bạn.  
 Bạn sẽ:
@@ -34,7 +33,7 @@ Bạn sẽ:
 - [Bỏ chạy khỏi giấc mơ](#tầng-3---chạy-trốn-giấc-mơ) 💤  
 
 ---
-
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br>
 
 ## Tầng 3 - Niệm chú
@@ -45,7 +44,7 @@ Bạn sẽ:
 - [Dừng lại, quá sợ hãi](#tầng-4---dừng-lại) 😨  
 
 ---
-
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 ## Tầng 3 - Đóng sách
 Bạn cảm thấy lạnh gáy. Ngoài cửa, có tiếng gõ lạ.  
 Bạn sẽ:
@@ -54,7 +53,7 @@ Bạn sẽ:
 - [Trốn dưới chăn](#tầng-4---trốn-chăn) 🛏  
 
 ---
-
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 ## Tầng 3 - Theo lão nhân
 Ông dẫn bạn đến một ngọn núi. Ông tự xưng là tiên nhân.  
 Bạn sẽ:
@@ -63,7 +62,7 @@ Bạn sẽ:
 - [Cãi lại, không tin](#tầng-4---cãi-lại) ⚡  
 
 ---
-
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 ## Tầng 3 - Chạy trốn giấc mơ
 Bạn tỉnh dậy, nhưng sách đã biến mất.  
 Bạn sẽ:
@@ -72,11 +71,11 @@ Bạn sẽ:
 - [Mặc kệ, sống đời phàm](#tầng-4---đời-phàm) 🍶  
 
 ---
-
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 … (lặp logic tương tự cho Tầng 4 → 9, mỗi tầng là một biến cố mới, 2 lựa chọn rẽ nhánh) …
 
 ---
-
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 ## Tầng 10 - Kết Cục
 Tùy theo lựa chọn của bạn, số phận đã định:
 
@@ -88,5 +87,5 @@ Tùy theo lựa chọn của bạn, số phận đã định:
 - **Nếu bạn chọn đời phàm, rời bỏ tu tiên** → 👉 **Bạn thành 🍶 Lãng Khách – một đời tự do, phiêu du nhân gian.**
 
 ---
-
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 📜 *“Mỗi bước chọn, là một bước định mệnh. Không có sai, chỉ có con đường khác nhau.”*
