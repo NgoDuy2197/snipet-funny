@@ -8,15 +8,23 @@
 ### Console log ra màu mè
 ![🌴Vice City🌴](https://img.shields.io/badge/🌴%20Vice%20City%20🌴-ff6ec7?style=for-the-badge&labelColor=ff6ec7&color=ff6ec7)
 
+
+<details>
+  <summary>👉 Javascript</summary>
+	
 ```
 console.log(
   "%c 🌴Vice City🌴 ",
   "color: white; background-color: #ff6ec7; font-size:16px; font-weight:bold; padding:4px 12px; border-radius:6px; text-shadow: 0 0 4px #ff99e6;"
 );
 ```
+</details>
 
 ### Đổi ico tab và Đổi tên
 
+<details>
+  <summary>👉 Javascript</summary>
+	
 ```
 
 function changeFaviconWithEmoji(emoji) {
@@ -53,9 +61,12 @@ setInterval(() => {
 }, 2000);
 
 ```
+</details>
 
 ### Show Toast
-Javascript
+<details>
+  <summary>👉 Javascript</summary>
+	
 ```
 
 // Hàm showToast
@@ -108,11 +119,10 @@ function showToast(message, duration = 3000) {
   }, duration);
 }
 ```
+</details>
 
-Css
 <details>
-  <summary>👉 Bấm vào đây để mở nội dung</summary>
-
+  <summary>👉 CSS</summary>
 
 ```
 /* Container để chứa tất cả toast */
