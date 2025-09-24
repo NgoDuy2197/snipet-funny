@@ -4,6 +4,7 @@
 
 - [Console log ra màu mè](#console-log-ra-màu-mè)
 - [Đổi ico tab và Đổi tên](#đổi-ico-tab-và-đổi-tên)
+- [Thông báo popup góc (showToast)](#show-toast)
 
 ### Console log ra màu mè
 ![🌴Vice City🌴](https://img.shields.io/badge/🌴%20Vice%20City%20🌴-ff6ec7?style=for-the-badge&labelColor=ff6ec7&color=ff6ec7)
@@ -54,3 +55,4 @@ setInterval(() => {
 
 ```
 
+### Show Toast
