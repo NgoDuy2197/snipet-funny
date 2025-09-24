@@ -1,5 +1,16 @@
 # Lưu mấy code linh tinh hay hay
+# Ví dụ collapse trong Markdown
 
+<details>
+  <summary>👉 Bấm vào đây để mở nội dung</summary>
+
+  Đây là phần nội dung ẩn.  
+  Có thể viết **Markdown** bên trong như bình thường:  
+  - Item 1  
+  - Item 2  
+  - Item 3  
+
+</details>
 ## Mục lục
 
 - [Console log ra màu mè](#console-log-ra-màu-mè)
@@ -56,3 +67,85 @@ setInterval(() => {
 ```
 
 ### Show Toast
+Javascript
+```
+
+// Hàm showToast
+function showToast(message, duration = 3000) {
+  let container = document.getElementById("toast-container");
+
+  if (!container) {
+    container = document.createElement("div");
+    container.id = "toast-container";
+    document.body.appendChild(container);
+
+    const style = document.createElement("style");
+    style.innerHTML = `
+        #toast-container {
+            position: fixed;
+            bottom: 20px;
+            right: 20px;
+            z-index: 9999;
+        }
+        .toast {
+            background: #333;
+            color: #fff;
+            padding: 10px 16px;
+            margin-top: 8px;
+            border-radius: 6px;
+            box-shadow: 0 2px 6px rgba(0,0,0,0.3);
+            font-size: 14px;
+            opacity: 0;
+            transform: translateY(20px);
+            transition: all 0.3s ease;
+        }
+        .toast.show {
+            opacity: 1;
+            transform: translateY(0);
+        }`;
+    document.head.appendChild(style);
+  }
+
+  const toast = document.createElement("div");
+  toast.className = "toast";
+  toast.innerText =
+    typeof message == "object" ? JSON.stringify(message) : message;
+  container.appendChild(toast);
+
+  setTimeout(() => toast.classList.add("show"), 50);
+
+  setTimeout(() => {
+    toast.classList.remove("show");
+    setTimeout(() => container.removeChild(toast), 300);
+  }, duration);
+}
+```
+
+Css
+```
+/* Container để chứa tất cả toast */
+#toast-container {
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  z-index: 9999;
+}
+
+/* Style chung cho toast */
+.toast {
+  background: #333;
+  color: #fff;
+  padding: 10px 16px;
+  margin-top: 8px;
+  border-radius: 6px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.3);
+  font-size: 14px;
+  opacity: 0;
+  transform: translateY(20px);
+  transition: all 0.3s ease;
+}
+.toast.show {
+  opacity: 1;
+  transform: translateY(0);
+}
+```
