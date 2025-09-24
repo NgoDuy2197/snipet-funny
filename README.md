@@ -1,16 +1,4 @@
 # Lưu mấy code linh tinh hay hay
-# Ví dụ collapse trong Markdown
-
-<details>
-  <summary>👉 Bấm vào đây để mở nội dung</summary>
-
-  Đây là phần nội dung ẩn.  
-  Có thể viết **Markdown** bên trong như bình thường:  
-  - Item 1  
-  - Item 2  
-  - Item 3  
-
-</details>
 ## Mục lục
 
 - [Console log ra màu mè](#console-log-ra-màu-mè)
@@ -122,6 +110,10 @@ function showToast(message, duration = 3000) {
 ```
 
 Css
+<details>
+  <summary>👉 Bấm vào đây để mở nội dung</summary>
+
+
 ```
 /* Container để chứa tất cả toast */
 #toast-container {
@@ -149,3 +141,5 @@ Css
   transform: translateY(0);
 }
 ```
+
+</details>
