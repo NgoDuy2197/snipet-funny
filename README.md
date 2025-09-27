@@ -343,6 +343,7 @@ ws.onclose = () => {
 <details>
   <summary>👉 copy_image.ps1</summary>
 
+```
 	param(
     [string]$Source = 'C:\Users\admin\Downloads\AnhServer\test',
     [string]$Target = "$PSScriptRoot\images",
@@ -405,5 +406,5 @@ foreach ($f in $files) {
 
 Write-Host "`n==== DONE ===="
 Write-Host "Total copied: $copied"
-
+```
 </details>
