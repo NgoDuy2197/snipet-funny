@@ -5,6 +5,7 @@
 - [Đổi ico tab và Đổi tên](#đổi-ico-tab-và-đổi-tên)
 - [Thông báo popup góc (showToast)](#show-toast)
 - [Tự lấy accessToken để gửi tin nhắn](#auto-send-mess-by-auto-get-token)
+- [Auto copy file](#auto-copy-file)
   
 ### Console log ra màu mè
 ![🌴Vice City🌴](https://img.shields.io/badge/🌴%20Vice%20City%20🌴-ff6ec7?style=for-the-badge&labelColor=ff6ec7&color=ff6ec7)
@@ -337,3 +338,72 @@ ws.onclose = () => {
 ```
 </details>
 
+### Auto copy file
+
+<details>
+  <summary>👉 copy_image.ps1</summary>
+
+	param(
+    [string]$Source = 'C:\Users\admin\Downloads\AnhServer\test',
+    [string]$Target = "$PSScriptRoot\images",
+    [switch]$Overwrite  # nếu thêm -Overwrite khi chạy thì sẽ ghi đè thay vì đổi tên
+)
+
+# supported extensions (lowercase, includes leading dot)
+$exts = '.jpg','.jpeg','.png','.gif','.bmp','.tif','.tiff','.webp','.heic'
+
+if (-not (Test-Path $Source)) {
+    Write-Error "Source path does not exist: $Source"
+    exit 1
+}
+
+if (-not (Test-Path $Target)) {
+    New-Item -Path $Target -ItemType Directory -Force | Out-Null
+}
+
+Write-Host "==== START COPYING (FLATTEN MODE) ===="
+Write-Host "Source : $Source"
+Write-Host "Target : $Target"
+Write-Host "Overwrite: $($Overwrite.IsPresent)"
+Write-Host ""
+
+# Get files
+$files = Get-ChildItem -Path $Source -Recurse -File -ErrorAction SilentlyContinue |
+         Where-Object { $exts -contains $_.Extension.ToLower() }
+
+Write-Host "Found $($files.Count) image files.`n"
+
+$copied = 0
+foreach ($f in $files) {
+    try {
+        Write-Host "Scanning: $($f.DirectoryName)"
+        $dest = Join-Path $Target $f.Name
+
+        if (-not $Overwrite.IsPresent) {
+            if (Test-Path $dest) {
+                $base = [System.IO.Path]::GetFileNameWithoutExtension($f.Name)
+                $ext  = $f.Extension
+                $i = 1
+                do {
+                    $candidate = "{0} ({1}){2}" -f $base, $i, $ext
+                    $dest = Join-Path $Target $candidate
+                    $i++
+                } while (Test-Path $dest)
+            }
+            Copy-Item -LiteralPath $f.FullName -Destination $dest -ErrorAction Stop
+        } else {
+            # Overwrite mode
+            Copy-Item -LiteralPath $f.FullName -Destination $dest -Force -ErrorAction Stop
+        }
+
+        Write-Host "Copied: $($f.FullName) -> $dest"
+        $copied++
+    } catch {
+        Write-Warning "ERROR copying $($f.FullName) : $_"
+    }
+}
+
+Write-Host "`n==== DONE ===="
+Write-Host "Total copied: $copied"
+
+</details>
