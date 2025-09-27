@@ -344,7 +344,7 @@ ws.onclose = () => {
   <summary>👉 copy_image.ps1</summary>
 
 ```
-	param(
+param(
     [string]$Source = 'C:\Users\admin\Downloads\AnhServer\test',
     [string]$Target = "$PSScriptRoot\images",
     [switch]$Overwrite  # nếu thêm -Overwrite khi chạy thì sẽ ghi đè thay vì đổi tên
