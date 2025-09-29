@@ -276,6 +276,14 @@ ws.onopen = () => {
 		);
 	}
 
+	function formatDate(date) {
+	  const d = new Date(date);
+	  const day = String(d.getDate()).padStart(2, '0');
+	  const month = String(d.getMonth() + 1).padStart(2, '0'); // tháng bắt đầu từ 0
+	  const year = d.getFullYear();
+	  return `${day}/${month}/${year}`;
+	}
+
 	const emojis = [
 		'🔥',
 		'🚀',
@@ -301,7 +309,7 @@ ws.onopen = () => {
 	function buildMessage() {
 		const words = pickWords(5);
 		const randomEmojis = getRandomEmojis(1);
-		return `${randomEmojis} Hôm nay hãy ôn 5 từ sau:\n\n${words}`;
+		return `[${formatDate(new Date())}]\n${randomEmojis} Hôm nay hãy ôn 5 từ sau:\n\n${words}`;
 	}
 
 	function checkAndSend() {
@@ -335,6 +343,7 @@ ws.onerror = (err) => {
 ws.onclose = () => {
 	console.log('🔒 WebSocket đóng');
 };
+
 ```
 </details>
 
