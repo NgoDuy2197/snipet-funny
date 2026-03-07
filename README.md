@@ -6,6 +6,7 @@
 - [Thông báo popup góc (showToast)](#show-toast)
 - [Tự lấy accessToken để gửi tin nhắn](#auto-send-mess-by-auto-get-token)
 - [Auto copy file](#auto-copy-file)
+- [Auto scan file current](#auto-scan-file-current)
   
 ### Console log ra màu mè
 ![🌴Vice City🌴](https://img.shields.io/badge/🌴%20Vice%20City%20🌴-ff6ec7?style=for-the-badge&labelColor=ff6ec7&color=ff6ec7)
@@ -443,5 +444,80 @@ foreach ($f in $files) {
 
 Write-Host "`n==== DONE ===="
 Write-Host "Total copied: $copied"
+```
+</details>
+
+### Auto scan file current
+
+<details>
+  <summary>👉 scan_file.bat</summary>
+
+```
+@echo off
+setlocal EnableDelayedExpansion
+
+REM ===== CONFIG =====
+set INPUT_PATH=
+set RESULT_FOLDER=__RESULT
+set SELF_FILE=%~nx0
+
+REM ===== INIT =====
+if not exist "%RESULT_FOLDER%" mkdir "%RESULT_FOLDER%"
+
+if "%INPUT_PATH%"=="" (
+    set SCAN_PATH=%cd%
+) else (
+    set SCAN_PATH=%INPUT_PATH%
+)
+
+echo =========================
+echo Scanning and copying...
+echo =========================
+
+for /r "%SCAN_PATH%" %%F in (*) do (
+
+    set "skip=0"
+
+    REM bỏ qua file trong RESULT
+    echo %%F | find "%RESULT_FOLDER%" >nul
+    if not errorlevel 1 set skip=1
+
+    REM bỏ qua file batch hiện tại
+    if /I "%%~nxF"=="%SELF_FILE%" set skip=1
+
+    REM bỏ qua file ở thư mục gốc
+    if "%%~dpF"=="%cd%\" set skip=1
+
+    if !skip!==0 (
+
+        set "full=%%F"
+        set "rel=!full:%cd%\=!"
+
+        set "name=%%~nxF"
+        set "base=%%~nF"
+        set "ext=%%~xF"
+        set "dest=%RESULT_FOLDER%\!name!"
+
+        if exist "!dest!" (
+            set i=1
+            :rename_loop
+            set "dest=%RESULT_FOLDER%\!base!_!i!!ext!"
+            if exist "!dest!" (
+                set /a i+=1
+                goto rename_loop
+            )
+        )
+
+        echo Copying: !rel!
+        echo    ---> !dest!
+
+        copy "%%F" "!dest!" >nul
+    )
+)
+
+echo =========================
+echo DONE. Files copied to %RESULT_FOLDER%
+echo =========================
+pause
 ```
 </details>
