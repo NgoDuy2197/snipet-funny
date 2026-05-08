@@ -7,6 +7,7 @@
 - [Tự lấy accessToken để gửi tin nhắn](#auto-send-mess-by-auto-get-token)
 - [Auto copy file](#auto-copy-file)
 - [Auto scan file current](#auto-scan-file-current)
+- [Auto toast error connect](#auto-toast-error-connect)
   
 ### Console log ra màu mè
 ![🌴Vice City🌴](https://img.shields.io/badge/🌴%20Vice%20City%20🌴-ff6ec7?style=for-the-badge&labelColor=ff6ec7&color=ff6ec7)
@@ -519,5 +520,44 @@ echo =========================
 echo DONE. Files copied to %RESULT_FOLDER%
 echo =========================
 pause
+```
+</details>
+
+### Auto toast error connect
+<details>
+  <summary>👉 Javascript</summary>
+```
+setTimeout(() => {
+
+	showToast("Set func...")
+    // 1. Fetch API - Giữ nguyên vì đã chuẩn
+    const originalFetch = window.fetch;
+    window.fetch = async (...args) => {
+        try {
+            const response = await originalFetch(...args);
+            if (!response.ok) {
+                showToast(`Lỗi API (Fetch): ${response.status} tại ${args[0]}`);
+            }
+            return response;
+        } catch (error) {
+            showToast(`Lỗi mạng: ${args[0]}`);
+            throw error;
+        }
+    };
+
+    // 2. XMLHttpRequest - Can thiệp vào send() để bắt trạng thái tốt hơn
+    const originalSend = XMLHttpRequest.prototype.send;
+    XMLHttpRequest.prototype.send = function(...args) {
+        this.addEventListener('load', function() {
+            if (this.status >= 400) {
+                showToast(`Lỗi API (XHR): ${this.status} tại ${this.responseURL}`);
+            }
+        });
+        this.addEventListener('error', function() {
+            showToast(`Lỗi kết nối API (XHR) tại ${this.responseURL}`);
+        });
+        return originalSend.apply(this, args);
+    };
+}, 10)
 ```
 </details>
